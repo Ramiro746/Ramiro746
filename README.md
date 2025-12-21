@@ -21,7 +21,7 @@ I´m a passionate fullstack developer currently living in Spain.
 
 ### Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-cueva-3a167724b/)
 
 <!--
 **Ramiro746/Ramiro746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
