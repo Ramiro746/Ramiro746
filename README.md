@@ -14,6 +14,8 @@ I´m a passionate fullstack developer currently living in Spain.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-21759B.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ramiro746&show_icons=true&theme=radical)
